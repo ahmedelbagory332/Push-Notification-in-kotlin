@@ -15,7 +15,7 @@ interface ApiInterface {
     }
 
     @Headers(
-        "Authorization: key=AAAAbj9kVrI:APA91bGOe6VSJh_M9b0bmxfod02R_iL_Ahx-2SOep4WqpYDYjcJmJktvyxClHbiT3Mm2WVTd7GGuDWDL1swcFWKnZl-ThgTzi06WkW_VahuEUjv_nH4ZuYJ_I_HsvJuvMbVgh_jkpt8b"
+        "Authorization: key=put your key"
         ,
         "Content-Type:application/json"
     )
