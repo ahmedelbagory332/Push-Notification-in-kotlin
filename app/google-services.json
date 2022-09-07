@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473509942962",
+    "project_id": "pushnotificationandroid2022",
+    "storage_bucket": "pushnotificationandroid2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473509942962:android:d9f22a8cf484369abe9bab",
+        "android_client_info": {
+          "package_name": "com.task.pushnotificationtospecificdeviceinkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473509942962-oagqu5vrllqjoq24jv1q1r6hfd4tktb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUN_3ScxCAmJvWUYCsqQ-oATZM8H9J41Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473509942962-oagqu5vrllqjoq24jv1q1r6hfd4tktb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
